@@ -1,1 +1,1 @@
-# js_for_and-while_loops_and-fizzbuzz
+# JS 'For' and 'While' Loops and FizzBuzz Tutorial
